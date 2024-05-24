@@ -49,8 +49,8 @@ else:
 
 
 
-print("you got" + str(score) + "sahi jawabs")
-print("you got" + str((score/5) * 100) + "%")
+print("you got " + str(score) + " sahi jawabs")
+print("you got " + str((score/5) * 100) + " %")
 
 
 
